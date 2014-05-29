@@ -2,6 +2,8 @@
 #define LIST_H
 #include <iostream>
 
+using namespace std;
+
 typedef int Data;
 
 class QueneOnSingleLinkedList
